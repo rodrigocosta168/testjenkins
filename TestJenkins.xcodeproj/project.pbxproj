@@ -349,7 +349,7 @@
 				INFOPLIST_FILE = TestJenkins/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "f477fe0b-2266-4382-babc-70252f1f3001";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
